@@ -1,0 +1,11 @@
+PropertyID,Title,City,District,Type,Bedrooms,Bathrooms,Area_sqft,PriceBirr,Agent,DateListed,Status
+1,3-Bed House in Bole,Addis Ababa,Bole,House,3,2,1800,2950000,Ethio Homes,2025-04-10,Available
+2,2-Bed Apartment in Kazanchis,Addis Ababa,Kazanchis,Apartment,2,1,1200,1800000,Urban Realty,2025-03-28,Sold
+3,4-Bed Villa in Old Airport,Addis Ababa,Old Airport,Villa,4,3,2400,4200000,Luxury Realty,2025-04-01,Available
+4,1-Bed Studio in Arat Kilo,Addis Ababa,Arat Kilo,Studio,1,1,600,850000,Addis Flats,2025-04-15,Available
+5,3-Bed House in CMC,Addis Ababa,CMC,House,3,2,1600,2650000,Ethio Homes,2025-04-03,Pending
+6,2-Bed Apartment in Sar Bet,Addis Ababa,Sar Bet,Apartment,2,1,1100,1750000,Urban Realty,2025-03-30,Available
+7,5-Bed Villa in Summit,Addis Ababa,Summit,Villa,5,4,3000,5500000,Luxury Realty,2025-04-05,Available
+8,Studio in Piazza,Addis Ababa,Piazza,Studio,1,1,500,780000,Addis Flats,2025-04-12,Available
+9,3-Bed House in Ayat,Addis Ababa,Ayat,House,3,2,1700,2750000,Ethio Homes,2025-04-08,Sold
+10,2-Bed Apartment in Megenagna,Addis Ababa,Megenagna,Apartment,2,1,1150,1850000,Urban Realty,2025-04-14,Available
